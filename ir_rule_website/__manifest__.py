@@ -1,10 +1,10 @@
 {
-    "name": """Multi-website support in Security Rules""",
+    "name": """Multiwebsite in Sec.Rules""",
     "summary": """Provide access depending on current website""",
     "category": "Access",
     # "live_test_url": "",
-    "images": [],
-    "version": "12.0.1.3.1",
+    "images": ['images/ir_rule_website.jpg'],
+    "version": "12.0.1.3.2",
     "application": False,
 
     "author": "IT-Projects LLC, Ildar Nasyrov",
@@ -32,5 +32,5 @@
     "uninstall_hook": None,
 
     "auto_install": False,
-    "installable": False,
+    "installable": True,
 }

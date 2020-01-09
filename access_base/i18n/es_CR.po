@@ -1,7 +1,7 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # * access_base
-# 
+#
 # Translators:
 # Randall Castro <randall_castro@me.com>, 2018
 msgid ""
@@ -11,11 +11,12 @@ msgstr ""
 "POT-Creation-Date: 2018-04-26 19:17+0000\n"
 "PO-Revision-Date: 2018-04-26 19:17+0000\n"
 "Last-Translator: Randall Castro <randall_castro@me.com>, 2018\n"
-"Language-Team: Spanish (Costa Rica) (https://www.transifex.com/it-projects-llc/teams/76080/es_CR/)\n"
+"Language-Team: Spanish (Costa Rica) (https://www.transifex.com/it-projects-"
+"llc/teams/76080/es_CR/)\n"
+"Language: es_CR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Language: es_CR\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. module: access_base
@@ -50,5 +51,5 @@ msgstr "Otro"
 #: model:ir.model.fields,help:access_base.field_res_groups_is_custom_group
 msgid "show group at the top of Access Rights tab in user form"
 msgstr ""
-"mostrar grupo al inicio de la pestaña Permisos de Acceso en el formulario de"
-" usuario"
+"mostrar grupo al inicio de la pestaña Permisos de Acceso en el formulario de "
+"usuario"

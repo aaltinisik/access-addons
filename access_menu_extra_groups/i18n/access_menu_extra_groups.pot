@@ -1,0 +1,31 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* access_menu_extra_groups
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 10.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: access_menu_extra_groups
+#: model:ir.model.fields,field_description:access_menu_extra_groups.field_ir_ui_menu_extra_groups_id
+#: model:ir.ui.view,arch_db:access_menu_extra_groups.edit_menu_access_extra_group
+msgid "Extra Groups"
+msgstr ""
+
+#. module: access_menu_extra_groups
+#: model:ir.model.fields,help:access_menu_extra_groups.field_ir_ui_menu_extra_groups_id
+msgid "Menu is visible only for users who are in the groups specified in the fields:\"groups_id\" and \"extra_groups_id\"."
+msgstr ""
+
+#. module: access_menu_extra_groups
+#: model:ir.model,name:access_menu_extra_groups.model_ir_ui_menu
+msgid "ir.ui.menu"
+msgstr ""
+
